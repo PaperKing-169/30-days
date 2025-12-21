@@ -1,0 +1,16 @@
+
+QScrollArea { background: transparent; }
+QScrollArea > QWidget > QWidget { background: transparent; }
+QScrollArea > QWidget > QScrollBar { background: red; }
+
+#scroll_box {
+	background-color : #4F4789;
+}
+
+#main_window {
+	background-color: #FCE762;
+}
+
+#Item {
+	background-color: #FFB17A;
+}
